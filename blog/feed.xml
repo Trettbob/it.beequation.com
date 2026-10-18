@@ -5,7 +5,17 @@
     <link>https://it.beequation.com/blog/</link>
     <description>Novità, idee di matematica e nuove guide di Beequation.</description>
     <language>it</language>
-    <lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://it.beequation.com/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calcolo mentale per adulti: come diventare più veloci</title>
+      <link>https://it.beequation.com/learn/get-faster-at-mental-maths.html?utm_source=rss</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Impara a fare i conti a mente con scomposizione, compensazione e doppio e metà. Una routine quotidiana e dieci esercizi con soluzioni spiegate.</description>
+      <dc:creator>Lee Trett</dc:creator>
+      <guid isPermaLink="true">https://it.beequation.com/learn/get-faster-at-mental-maths.html</guid>
+      <enclosure url="https://beequation.com/assets/og-image.png" length="55579" type="image/png" />
+      <media:content url="https://beequation.com/assets/og-image.png" medium="image" />
+    </item>
   </channel>
 </rss>
